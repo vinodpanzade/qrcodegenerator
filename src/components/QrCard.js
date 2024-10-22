@@ -17,7 +17,7 @@ export default function QrCard({ qrRef, url, bgColor, qrColor, customImg, noImg 
 			
 				<QrCode
 					size={250}
-					value={url ? url : 'https://travolgi.com'}
+					value={url ? url : '/'}
 					bgColor={bgColor}
 					fgColor={qrColor}
 					level='H'
