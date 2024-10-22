@@ -1,32 +1,4 @@
-**QR Code Generator**
+![Screenshot (54)](https://github.com/user-attachments/assets/f943ef54-c807-4bb9-8a5a-95e969501601)
+<p align="left">Features:<br><br>Light / dark mode theme switcher<br>Qr Code 'https://github.com/vinodpanzade' default on loading<br>Dynamically generating the Qr Code as you type the URL<br>Dynamically update the color and background of the Qr Code based on the customization input entered by the user<br>Dynamically update the customized image of the Qr Code<br>Removes the custom image of the Qr Code<br>You can download the .png of the generated Qr Code<br>Process<br><br>Built with<br>Semantic HTML5 markup<br>CSS custom properties<br>Grid & Flexbox<br>React - Js library<br>QRCode.react - Qr Code package<br>React Color - Color Pickers package<br>Continued development<br><br>Future features:<br><br>Serverless database connection<br>Authentication with login<br>Save the Qr Code generated<br><br>Useful resources<br>QRCode.react<br>React Color<br><br>Getting Started<br>In order to view this project locally, you need to make sure you clone this repository and install it's dependencies.<br><br>System Requirements<br>[git][https://git-scm.com/] 2.31.1 or greater<br>[node][https://nodejs.org/en/] 14.16.1 or greater<br>[npm][https://nodejs.org/en/] 8.7.0 or greater<br>To check which versions you have installed you can run these commands:<br><br>git --version<br>node --version<br>npm --version<br>If requirements above are not installed in your computer, you'll need to install them. By clicking on them you can go to their website, which can lead you the way.<br><br>Installation<br>Clone the repository<br>git clone https://github.com/vinodpanzade/qrcodegenerator<br>Navigate to repository folder<br>cd react-qrcode-generator<br>Install npm packages<br>npm install<br>To run the app in the development mode run in the project directory:<br>npm start</p>
 
-This app generates Qr Code based on the entered URL. It is also possible to customize and download the generated Qr Code
-
-![Screenshot (53)](https://github.com/user-attachments/assets/171e9d47-5cd1-4c48-af18-44fa3994487a)
-Table of contents
-About App
-Process
-Built with
-Continued development
-Useful resources
-Getting Started
-System Requirements
-Installation
-Bugs
-
-**About App**
-This app generates Qr Code based on the url entered
-![Screenshot (54)](https://github.com/user-attachments/assets/6043f14e-7b29-415d-a5cd-59a4adf1d6f6)
-
-Features:
-
-Light / dark mode theme switcher
-Dynamically generating the Qr Code as you type the URL
-Dynamically update the color and background of the Qr Code based on the customization input entered by the user
-Dynamically update the customized image of the Qr Code
-Removes the custom image of the Qr Code
-You can download the .png of the generated Qr Code
-
-
-
-
+###
