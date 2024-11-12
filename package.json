@@ -1,6 +1,6 @@
 {
   "name": "react-qrcode-generator",
-  "homepage": "https://travolgi.github.io/react-qrcode-generator",
+  "homepage": "https://github.com/vinodpanzade/qrcodegenerator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
